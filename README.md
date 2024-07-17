@@ -41,3 +41,6 @@ y &= \frac{N_2}{D} = \frac{-A_3 (p_2^2 - p_1^2 - A_2^2 - B_2^2) + A_2 (p_3^2 - p
 
 ## Implementation
 This repository includes a Jupyter Notebook that walks through the derivation of the necessary equations and demonstrates how to solve them using numerical methods. The notebook is well-commented to guide you through the process.
+
+## Reference
+This is a reality check problem from Numerical Analysis 3rd edition by Sauer
