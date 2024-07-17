@@ -1,6 +1,4 @@
-# Kinematics-of-the-Stewart-Platform
-
-# Planar Stewart Platform Project ⚙️
+# Kinematics-of-the-Stewart-Platform ⚙️
 
 ## Description 👀
 Welcome to the Planar Stewart Platform Project repository. 
