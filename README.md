@@ -1,0 +1,1 @@
+# Python-Kinematics-of-the-Stewart-Platform
