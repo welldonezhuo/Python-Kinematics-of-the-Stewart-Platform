@@ -6,9 +6,9 @@ Welcome to the Planar Stewart Platform Project repository.
 This project models a simplified two-dimensional version of the Stewart platform, a manipulator composed of a triangular platform controlled by three variable-length struts. The primary goal is to solve the forward kinematics problem, determining the platform's position and orientation given the lengths of the three struts.
 
 ## Project Overview 🙌
-A Stewart platform typically consists of six variable-length struts supporting a payload, providing six degrees of freedom. This project simplifies the concept to two dimensions, modeling the platform as a triangle controlled by three struts. The inner triangle's dimensions are defined by the lengths $L_1, L_2,$ and $L_3,$ with $\gamma$ denoting the angle across from side \(L_1\). The strut lengths are represented by \(p_1\), \(p_2\), and \(p_3\).
+A Stewart platform typically consists of six variable-length struts supporting a payload, providing six degrees of freedom. This project simplifies the concept to two dimensions, modeling the platform as a triangle controlled by three struts. The inner triangle's dimensions are defined by the lengths $L_1, L_2,$ and $L_3,$ with $\gamma$ denoting the angle across from side $L_1$. The strut lengths are represented by $p_1$, $p_2$, and $p_3$.
 
-The forward kinematics problem involves computing the position \((x, y)\) and orientation \(\theta\) of the platform for given strut lengths \(p_1\), \(p_2\), and \(p_3\). While no closed-form solution exists, this project uses trigonometric equations and numerical methods to solve the problem.
+The forward kinematics problem involves computing the position $(x, y)$ and orientation $\theta$ of the platform for given strut lengths \(p_1\), \(p_2\), and \(p_3\). While no closed-form solution exists, this project uses trigonometric equations and numerical methods to solve the problem.
 
 ## Equations 🧮
 The following equations describe the relationship between the platform's position and the strut lengths:
