@@ -33,8 +33,7 @@ These equations are solved to find the values of $x$ and $y$ in terms of $\theta
 
 $$x = \frac{N_1}{D} = \frac{B_3 (p_2^2 - p_1^2 - A_2^2 - B_2^2) - B_2 (p_3^2 - p_1^2 - A_3^2 - B_3^2)}{2 (A_2 B_3 - B_2 A_3)} $$
 
-$$y = \frac{N_2}{D} = \frac{-A_3 (p_2^2 - p_1^2 - A_2^2 - B_2^2) + A_2 (p_3^2 - p_1^2 - A_3^2 - B_3^2)}{2 (A_2 B_3 - B_2 A_3)}
-\end{aligned}$$
+$$y = \frac{N_2}{D} = \frac{-A_3 (p_2^2 - p_1^2 - A_2^2 - B_2^2) + A_2 (p_3^2 - p_1^2 - A_3^2 - B_3^2)}{2 (A_2 B_3 - B_2 A_3)} $$
 
 
 ## Implementation 👩‍💻
