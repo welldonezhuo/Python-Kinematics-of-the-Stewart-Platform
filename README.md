@@ -21,11 +21,13 @@ $$p_3^2 = (x + A_3)^2 + (y + B_3)^2$$
 
 where:
 
-A_2 &= L_2 \cos \theta + x_1 
-B_2 &= L_3 \sin \theta 
-A_3 &= L_2 \cos (\theta + \gamma) - x_2 = L_2 [ \cos (\theta) \cos (\gamma) - \sin (\theta) \sin (\gamma) ] - x_2
-B_3 &= L_2 \sin (\theta + \gamma) - y_2 = L_2 [ \cos (\theta) \sin (\gamma) + \sin (\theta) \cos (\gamma) ] - y_2
+$$ A_2 &= L_2 \cos \theta + x_1 $$
 
+$$ B_2 &= L_3 \sin \theta $$
+
+$$ A_3 &= L_2 \cos (\theta + \gamma) - x_2 = L_2 [ \cos (\theta) \cos (\gamma) - \sin (\theta) \sin (\gamma) ] - x_2 $$
+
+$$ B_3 &= L_2 \sin (\theta + \gamma) - y_2 = L_2 [ \cos (\theta) \sin (\gamma) + \sin (\theta) \cos (\gamma) ] - y_2 $$
 
 These equations are solved to find the values of \(x\) and \(y\) in terms of \( \theta \):
 
