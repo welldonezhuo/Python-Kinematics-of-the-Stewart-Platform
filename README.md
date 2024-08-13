@@ -14,8 +14,8 @@ The forward kinematics problem involves computing the position $(x, y)$ and orie
 The following equations describe the relationship between the platform's position and the strut lengths:
 
 $$p_1^2 = x^2 + y^2\\
-$$p_2^2 = (x + A_2)^2 + (y + B_2)^2\\
-$$p_3^2 = (x + A_3)^2 + (y + B_3)^2$$
+p_2^2 = (x + A_2)^2 + (y + B_2)^2\\
+p_3^2 = (x + A_3)^2 + (y + B_3)^2$$
 
 where:
 
