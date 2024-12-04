@@ -1,6 +1,5 @@
 # Kinematics-of-the-Stewart-Platform ⚙️
 
-## Description 👀
 Welcome to the Planar Stewart Platform Project repository. 
 
 This project models a simplified two-dimensional version of the Stewart platform, a manipulator composed of a triangular platform controlled by three variable-length struts. The primary goal is to solve the forward kinematics problem, determining the platform's position and orientation given the lengths of the three struts.
